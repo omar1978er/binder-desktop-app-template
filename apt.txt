@@ -18,3 +18,4 @@ libcurl4-openssl-dev
 libwebkit2gtk-4.0-37
 libwebkit2gtk-4.0-dev
 libgl1-mesa-glx
+build-essential
