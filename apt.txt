@@ -1,10 +1,20 @@
-# Baseline packages to get X working
 dbus-x11
 xorg
 xubuntu-icon-theme
-
-# Desktop environment so people can navigate
 xfce4
-
-# Everyone needs a browser
 firefox
+g++ 
+libgtk-3-dev 
+libfreetype6-dev 
+libx11-dev 
+libxinerama-dev 
+libxrandr-dev 
+libxcursor-dev 
+mesa-common-dev 
+libasound2-dev 
+freeglut3-dev 
+libxcomposite-dev 
+libcurl4-openssl-dev
+libwebkit2gtk-4.0-37
+libwebkit2gtk-4.0-dev
+libgl1-mesa-glx
